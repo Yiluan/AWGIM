@@ -10,7 +10,7 @@ Code will be released soon. Stay tuned!
 Please cite in the following manner if you find it useful in your research:
 ```
 @inproceedings{guo2020awgim,
-  title = {{Attentive Weights Generation for Few Shot Learning via Information Maximization},
+  title = {Attentive Weights Generation for Few Shot Learning via Information Maximization},
   author = {Yiluan Guo, Ngai-Man Cheung.},
   booktitle = {CVPR},
   year = {2020}
