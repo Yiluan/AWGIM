@@ -7,7 +7,7 @@ By Yiluan Guo, Ngai-Man Cheung
 Code will be released soon. Stay tuned!
 
 ### Citation
-Please cite in the following manner if you find it useful in your research:
+Please cite our work if you find it useful in your research:
 ```
 @inproceedings{guo2020awgim,
   title = {Attentive Weights Generation for Few Shot Learning via Information Maximization},
