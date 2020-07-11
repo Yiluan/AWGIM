@@ -13,7 +13,7 @@ Parts of the code are borrowed from [LEO](https://github.com/deepmind/leo).
 The feature embeddings for miniImageNet and tieredImageNet can be downloaded from https://github.com/deepmind/leo. We include the miniImageNet data here.
 
 
-5-way 1-shot experiments on miniImageNet:
+5-way 1-shot experiment on miniImageNet:
  
 `python main.py`
 
