@@ -13,11 +13,10 @@ Parts of the code are borrowed from [LEO](https://github.com/deepmind/leo).
 The feature embeddings for miniImageNet and tieredImageNet can be downloaded from https://github.com/deepmind/leo. We include the miniImageNet data here.
 
 
-Run
+5-way 1-shot experiments on miniImageNet:
  
 `python main.py`
 
-for 5-way 1-shot experiments on miniImageNet.
 
 The hyper-parameters can be tuned in `main.py` and AWGIM is in `model.py`.
 
