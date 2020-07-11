@@ -10,8 +10,7 @@ The implementation is written in Python 3 and has been tested on tensorflow 1.12
 
 Parts of the code are borrowed from [LEO](https://github.com/deepmind/leo). 
 
-The feature embeddings for miniImageNet and tieredImageNet can be downloaded from https://github.com/deepmind/leo. We include the miniImageNet data here.
-
+The feature embeddings for miniImageNet and tieredImageNet can be downloaded from https://github.com/deepmind/leo.
 
 5-way 1-shot experiment on miniImageNet:
  
